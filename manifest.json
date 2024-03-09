@@ -4,10 +4,6 @@
     "version": "1.0.0",
     "description": "this is an extention which will fetch details of every site you are logged into right now",
     "author": "Gamer998",
-    "icons": {
-      "48": "images/icon-48.png",
-      "128": "images/icon-128.png"
-    },
     "action": {
         "default_popup": "index.html",
         "default_title": "My Logins"

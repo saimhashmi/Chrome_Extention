@@ -1,0 +1,11 @@
+{
+    "Name": "My Logins",
+    "version": "1.0",
+    "description": "this is an extention which will fetch details of every site you are logged into right now.",
+    "manifest_version": 3,
+    "author": "Gamer998",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Logins"
+    }
+}

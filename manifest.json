@@ -1,5 +1,5 @@
 {
-    "Name": "My Logins",
+    "name": "My Logins",
     "version": "1.0",
     "description": "this is an extention which will fetch details of every site you are logged into right now.",
     "manifest_version": 3,

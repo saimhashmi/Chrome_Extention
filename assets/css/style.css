@@ -1,5 +1,21 @@
-*	{
-	background-color: #949494;
+title   {
+    display: none;
+}
+
+body	{
+	display: block;
+    margin: 0;
+    background-color: #ce4c4c;
     font-family: 'Yeon Sung', cursive;
     width: 300px;
+    padding: 8px;
 }
+
+#head   {
+    display: flex;
+    justify-content: center;
+}
+
+/* .content {
+    
+} */
